@@ -2,4 +2,4 @@
 
 ### Learnt how to make clean visualizations using matplotlib and seaborn
 
-Add the different visualizations to my github
+Add the different visualizations to my github + add correlations
